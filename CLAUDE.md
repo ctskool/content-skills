@@ -1,6 +1,6 @@
 # Installer: content skills
 
-You are installing Claude Code skills for content work. The user may have cloned this repo and said "set me up", or pasted a prompt pointing here. Follow these steps in order. Keep messages short and plain.
+You are installing Claude Code skills for content work. The user may have cloned this repo and said "set me up", or pasted a prompt pointing here. Follow these steps in order. Keep messages short and plain. `~` means the user's home folder; on Windows that's `%USERPROFILE%`, so use the PowerShell equivalents of the commands below.
 
 ## 1. Show the list and ask
 
